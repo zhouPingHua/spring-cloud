@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/configclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserver2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sericefeign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serverzipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servicehi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servicehi2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serviceribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servicezuul" charset="UTF-8" />
+  </component>
+</project>

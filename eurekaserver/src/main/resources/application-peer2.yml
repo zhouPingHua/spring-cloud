@@ -1,0 +1,14 @@
+server:
+  port: 8869
+
+spring:
+  profiles: peer2
+  application:
+      name: rureka-server
+eureka:
+  instance:
+    hostname: peer2
+  client:
+    serviceUrl:
+      defaultZone: http://peer1:8761/eureka/
+

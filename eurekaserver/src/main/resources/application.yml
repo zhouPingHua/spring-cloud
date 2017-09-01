@@ -1,0 +1,20 @@
+#server:
+#  port: 8761
+#
+#eureka:
+#  server:
+#    enable-self-preservation: false
+#  instance:
+#    hostname: localhost
+#  client:
+#    registerWithEureka: false
+#    fetchRegistry: false
+#    serviceUrl:
+#      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+
+#spring:
+#  profiles:
+#    active: peer1,peer2
+
+#java -jar eurekaserver-0.0.1-SNAPSHOT.jar --spring.profiles.active=peer1
+#java -jar eurekaserver-0.0.1-SNAPSHOT.jar --spring.profiles.active=peer2
