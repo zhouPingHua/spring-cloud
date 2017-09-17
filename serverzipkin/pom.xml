@@ -77,7 +77,10 @@
 				<artifactId>docker-maven-plugin</artifactId>
 				<version>0.4.3</version>
 				<configuration>
-					<imageName>10.0.10.60:5000/serverzipkin:0.0.1</imageName>
+					<imageName>10.0.10.60:5000/serverzipkin</imageName>
+					<imageTags>
+						<imageTag>0.0.2</imageTag>
+					</imageTags>
 					<dockerDirectory>src/main/docker</dockerDirectory>
 					<resources>
 						<resource>
