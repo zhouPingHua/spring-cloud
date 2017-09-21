@@ -65,7 +65,7 @@
 				<configuration>
 					<imageName>10.0.10.60:5000/eurekaserver</imageName>
 					<imageTags>
-						<imageTag>0.0.1</imageTag>
+						<imageTag>latest</imageTag>
 					</imageTags>
 					<dockerDirectory>src/main/docker</dockerDirectory>
 					<resources>
