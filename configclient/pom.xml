@@ -93,7 +93,10 @@
                 <artifactId>docker-maven-plugin</artifactId>
                 <version>0.4.3</version>
                 <configuration>
-                    <imageName>${docker.image.prefix}/${project.artifactId}</imageName>
+                    <imageName>10.0.10.60:5000/configclient</imageName>
+                    <imageTags>
+                        <imageTag>latest</imageTag>
+                    </imageTags>
                     <dockerDirectory>src/main/docker</dockerDirectory>
                     <resources>
                         <resource>
