@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0796fe8a-960f-43f3-92e1-9168b718a6df" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/configserver/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/configserver/src/main/resources/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/configserver2/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/configserver2/src/main/resources/application.properties" />
     </list>
     <ignored path="spring-cloud.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -129,21 +128,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/configserver/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="36" />
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/configserver2/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="294">
+              <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -266,9 +265,9 @@
         <option value="$PROJECT_DIR$/configserver2/pom.xml" />
         <option value="$PROJECT_DIR$/configserver/src/main/docker/Dockerfile" />
         <option value="$PROJECT_DIR$/configserver2/src/main/docker/Dockerfile" />
-        <option value="$PROJECT_DIR$/configserver2/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/configclient/src/main/docker/Dockerfile" />
         <option value="$PROJECT_DIR$/configserver/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/configserver2/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -1415,12 +1414,12 @@
       <workItem from="1505612451853" duration="11110000" />
       <workItem from="1505870732157" duration="2225000" />
       <workItem from="1505957745491" duration="4236000" />
-      <workItem from="1506043898619" duration="7324000" />
+      <workItem from="1506043898619" duration="7952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157396000" />
+    <option name="totallyTimeSpent" value="158024000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1843,14 +1842,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configserver2/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eurekaserver/src/main/java/com/example/demo/EurekaserverApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -1865,7 +1856,15 @@
     <entry file="file://$PROJECT_DIR$/configserver/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="36" />
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configserver2/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
           <folding />
         </state>
       </provider>
