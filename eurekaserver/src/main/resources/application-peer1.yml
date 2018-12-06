@@ -1,14 +1,14 @@
-server:
-  port: 8761
-
-spring:
-  profiles: peer1
-  application:
-      name: rureka-server
-eureka:
-  instance:
-    hostname: peer1
-  client:
-    serviceUrl:
-      defaultZone: http://peer2:8869/eureka/
-
+#server:
+#  port: 8761
+#
+#spring:
+#  profiles: peer1
+#  application:
+#      name: rureka-server
+#eureka:
+#  instance:
+#    hostname: peer1
+#  client:
+#    serviceUrl:
+#      defaultZone: http://peer2:8869/eureka/
+#
